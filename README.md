@@ -1,4 +1,4 @@
-![Mavu logo](docs/mavu.png)
+![Mavu logo](https://github.com/mateocallec/mavu/blob/main/docs/logo.png?raw=true)
 
 # Mavu File Explorer
 
