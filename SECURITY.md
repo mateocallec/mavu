@@ -6,7 +6,7 @@ Mavu is committed to maintaining the security of our software and protecting our
 
 If you believe you have found a security vulnerability in Mavu, please follow these steps to report it:
 
-1. **Email Us**: Send an email to [mateo@callec.net](mailto:mateo@callec.net) with the details of the vulnerability.
+1. **Email Me**: Send an email to [mateo@callec.net](mailto:mateo@callec.net) with the details of the vulnerability.
 
 2. **Provide Details**: Include as much information as possible in your report, such as:
    - A description of the vulnerability and the potential impact.
