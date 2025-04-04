@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2025-04-04
+
+### 🚀 Major Enhancements
+
+- **Static Linking of Libraries**: This version introduces static linking of essential libraries, including `libmagic`, `zlib`, `lzma`, and `bzip2`. This change ensures that Mavu is self-contained and does not rely on external shared libraries, simplifying deployment and ensuring consistency across different environments.
+
+- **Bug Fixes and Stability Improvements**: Addresses several bugs and stability issues reported in the previous version, ensuring a smoother user experience.
+
 ## [1.0.0] - 2025-03-22
 
 ### 🎉 Initial Release
