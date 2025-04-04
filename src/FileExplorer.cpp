@@ -43,7 +43,7 @@ void FileExplorer::explore() {
             std::string content = FileReader::readFile(file.string());
 
             // Check if the file is binary
-            if (fileManager.hasBinaryExtension(file)) {
+            if (fileManager.hasBinaryExtension(file) || !fileManager.isTextMimeType(file)) {
                 // Convert the binary content to hexadecimal format
                 std::string hexContent = Outputs::convertToHex(content);
                 // Display the content in hexadecimal format

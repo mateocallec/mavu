@@ -213,5 +213,6 @@ void Outputs::displayCredits() {
               << "Version: " << SOFTWARE_VERSION << std::endl
               << "License: " << SOFTWARE_LICENSE << std::endl
               << "--------------------" << std::endl
-              << softwareFullLicense << std::endl;
+              << std::endl
+              << "\033[90m" << softwareFullLicense << "\033[0m"  << std::endl;
 }

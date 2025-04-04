@@ -60,6 +60,17 @@ public:
      */
     bool hasBinaryExtension(const std::filesystem::path& filePath) const;
 
+    /**
+    * @brief Checks if a file has a text MIME type.
+    *
+    * This function checks the file extension against a predefined set of text file extensions.
+    * Common text file extensions like .txt, .md, .html, etc., are included in this set.
+    *
+    * @param filePath The path of the file to check.
+    * @return True if the file has a text MIME type, otherwise false.
+    */
+    bool isTextMimeType(const std::filesystem::path& filePath) const;
+
 private:
     /**
      * @brief Checks if a file is hidden.

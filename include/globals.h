@@ -13,7 +13,7 @@
 
 #define SOFTWARE_NAME "mavu"
 #define SOFTWARE_COMMAND "mavu"
-#define SOFTWARE_VERSION "1.0.0"
+#define SOFTWARE_VERSION "2.0.0"
 #define SOFTWARE_AUTHOR "Mateo Florian Callec"
 #define SOFTWARE_LICENSE "MIT License"
 #define SOFTWARE_LICENSE_HEADER "The MIT License (MIT)"
