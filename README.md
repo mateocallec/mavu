@@ -25,7 +25,7 @@ Mavu is a command-line utility written in C++ that allows you to explore and dis
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/mavu.git
+   git clone https://github.com/mateocallec/mavu.git
    cd mavu
    ```
 
