@@ -15,13 +15,27 @@ Mavu is a command-line utility written in C++ that allows you to explore and dis
 
 ## Installation
 
-### Prerequisites
+### Method 1
+
+1. Download the package:
+   ```sh
+   wget resources.callec.net/open-source-projects/mavu/mavu_latest.deb
+   ```
+
+2. Install the package:
+   ```sh
+   dpkg -i mavu_latest.deb
+   ```
+
+### Method 2
+
+#### Prerequisites
 
 - C++ compiler (e.g., g++)
 - CMake (for building the project)
 - GNU Make (for building the project)
 
-### Steps
+#### Steps
 
 1. Clone the repository:
    ```sh
