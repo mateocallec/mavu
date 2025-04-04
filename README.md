@@ -19,7 +19,7 @@ Mavu is a command-line utility written in C++ that allows you to explore and dis
 
 1. Download the package:
    ```sh
-   wget resources.callec.net/open-source-projects/mavu/mavu_latest.deb
+   wget https:/resources.callec.net/open-source-projects/mavu/mavu_latest.deb
    ```
 
 2. Install the package:
