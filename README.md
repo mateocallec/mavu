@@ -24,7 +24,7 @@ Mavu is a command-line utility written in C++ that allows you to explore and dis
 
 2. Install the package:
    ```sh
-   dpkg -i mavu_latest.deb
+   sudo dpkg -i mavu_latest.deb
    ```
 
 ### Method 2
